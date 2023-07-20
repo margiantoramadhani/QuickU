@@ -1,0 +1,6 @@
+payment_method,payment_method_id
+Kartu Debit,1
+Kartu Kredit,2
+QRIS,3
+Transfer Rekening,4
+Virtual Account,5
